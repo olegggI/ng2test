@@ -1,0 +1,24 @@
+.post {
+	clear: both;
+	padding: 10px;
+	display: flex;
+}
+
+.post__title {
+	font-size: 16px;
+	padding: 0 10px;
+	flex: 5 1;
+}
+
+.post__title span{
+
+}
+
+.post__thumbnail {
+	flex: 1 1;
+}
+
+.post__subreddit {
+	flex: 1 1;
+	font-weight: bold
+}
