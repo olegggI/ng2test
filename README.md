@@ -1,5 +1,6 @@
-npm install
+```bash
+$ npm install
+$ npm start
+```
 
-npm start
-
-http://localhost:4200/
+Then run http://localhost:4200/
